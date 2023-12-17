@@ -22,10 +22,10 @@ h1{
 h2{
     font-family: 'Roboto', sans-serif;
     font-size: 35px; 
-}
 /*Universal Padding and Margin*/
 .uni-padding{
     padding: 0 100px;
+    max-widht : 1440px;
 }
 .uni-margin{
     margin: 20px 0;
