@@ -25,7 +25,7 @@ h2{
 /*Universal Padding and Margin*/
 .uni-padding{
     padding: 0 100px;
-    max-widht : 1440px;
+    min-width : 1440px;
 }
 .uni-margin{
     margin: 20px 0;
